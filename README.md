@@ -18,30 +18,31 @@ The Huggingface Transformers library is a popular library for natural language p
 In this code, we use the AutoModelForSeq2SeqLM class from the Transformers library to translate English sentences into Hindi. This class is pre-trained on a large dataset of parallel English-Hindi text.
 
 ## Table of Contents
-Getting Started
-License
-Contribution
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
 
 ## Getting Started
 To get started with this code, you will need to install the following dependencies:
 
-Python 3.8+
-Pip
-Huggingface Transformers
+## Prerequisites
+-Python 3.8+
+-Pip
+-Huggingface Transformers
 You can install the dependencies using the following command:
 
-pip install -r requirements.txt
-Prerequisites
+
 To use this code, you will need to have some basic knowledge of Python and the Huggingface Transformers library.
 
 ## Installation
 To install this code, you can clone the repository from GitHub:
+1. Clone this repository to your local machine. 
+2. Navigate to the project directory.
+3. Run the file -engtohing.py
 
-git clone https://github.com/VAISHNAVIV27/English-2-Hinglish-Translator.git
-Then, change directory to the project folder and install the dependencies:
 
-cd English-2-Hinglish-Translatorr
-pip install -r requirements.txt
+##Output Image
+![image](https://github.com/VAISHNAVIV27/English-2-Hinglish-Translator/assets/94777812/520ecba8-9c3c-4ed8-ac62-95f6fc5ed600)
 
 
 ## Contributing
