@@ -1,10 +1,10 @@
 ##English-2-Hinglish-Translator
 This is a simple Hinglish translator that can translate English sentences to Hindi and Hinglish.
 
-#Overview
+##Overview
 This code is a simple English to Hinglish translator. It uses the Huggingface Transformers library to translate English sentences into Hindi, and then uses a custom function to transliterate the Hindi text into Hinglish.
 
-#Code Explanation
+##Code Explanation
 The code is divided into three functions:
 
 hindiToHinglish(): This function converts a Hindi sentence into Hinglish by replacing the Hindi characters with their corresponding English transliterations.
