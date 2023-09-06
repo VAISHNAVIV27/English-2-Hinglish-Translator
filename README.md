@@ -26,9 +26,9 @@ In this code, we use the AutoModelForSeq2SeqLM class from the Transformers libra
 To get started with this code, you will need to install the following dependencies:
 
 ## Prerequisites
--Python 3.8+
--Pip
--Huggingface Transformers
+- Python 3.8+
+- Pip
+- Huggingface Transformers
 You can install the dependencies using the following command:
 
 
